@@ -6,4 +6,4 @@ https://lin-gd-001-cf.slivcdn.com/out/v1/9f4f650a3ef84ec187f35444aeff456e/master
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tg38a8lDLgly7ys7Sr9DOw", "kid":"OdzkxgPWW1KEbniKzfdckw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="63" group-title="Favo";"Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" ,Zee TV HD
-https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd?video_quality=1920x1080
