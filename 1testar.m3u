@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="368" group-title="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+#EXTINF:-1 tvg-id="368" group-title="Favo;Entertainment" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
 https://lin-gd-001-cf.slivcdn.com/out/v1/9f4f650a3ef84ec187f35444aeff456e/master_7.m3u8?hdntl=exp=1685069024~acl=f73fd6dae10d423499489b460c275da1-1685024969916-2107190145192963596~hmac=30a5d4007988baf12ba782e9f1fef307c1ba38378d54c8fe22bd9b045007cd80
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tg38a8lDLgly7ys7Sr9DOw", "kid":"OdzkxgPWW1KEbniKzfdckw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="63" group-title="Techy Kuldeep Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" ,Zee TV HD
+#EXTINF:-1 tvg-id="63" group-title="Favo;Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" ,Zee TV HD
 https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd
